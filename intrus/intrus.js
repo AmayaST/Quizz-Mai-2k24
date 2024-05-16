@@ -1,6 +1,6 @@
 var theme = [
 	"L'intrus est celui qui n'a fait qu'une fois la voix off d'un épisode de Grey's Anatomy.",
-	"L'intrus est le joueur qui a mis plus de points ou pris plus de rebonds qu'Embiid lors des playoffs 2023.",
+	"L'intrus est le joueur qui a pris moins de rebonds (sauf s'il a marqué plus de points) qu'Embiid lors des playoffs 2023.",
 	"L'intrus est le couple musicien - instrument qui ne vont pas ensemble.",
 	"L'intrus est l'élément qui ne se trouve pas sur le drapeau d'un état des États Unis.'."
 	]
